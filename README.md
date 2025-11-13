@@ -1,6 +1,13 @@
-# PySpark
+# 🧠 Apache Spark Practice Notebooks
 
-├── Data/                        # Sample datasets used in notebooks
+This repository contains a collection of **Apache Spark practice notebooks** designed to help learn data processing, machine learning, NLP, and streaming using **PySpark**.
+
+---
+
+## 📁 Repository Structure
+
+```text
+├── Data/                        
 ├── Spark01_dataframes.ipynb
 ├── Spark02_dataframes_sql.ipynb
 ├── Spark03_dataframes_aggregate_function.ipynb
